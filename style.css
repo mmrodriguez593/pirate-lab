@@ -1,14 +1,16 @@
 body {
     background-color: #ccc;
     font-family: 'Nanum Brush Script', cursive;
+    margin: 0 auto;
 }
 h1 {
     font-family: 'Seaweed Script', cursive;
 }
 .main {
     position: relative;
-    margin-left: 250px;
-    margin-top: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
     background-color: white;
     max-width: 800px;
     padding: 30px;
